@@ -7,7 +7,7 @@ Use Python and SQLAlchey to do climate analysis and data exploration of the clim
   * Use SQLAlchemy automap_base() to reflect your tables into classes and save a reference to those classes called Station and      Measurement
   
  ### Preciptation Analysis
-![](images/Capture.PNG)
+![](images/precip.PNG)   
   * Design a query to retrieve the last 12 months of precipitation data
   * Select only the date and prcp values.
   * Load the query results into a Pandas DataFrame and set the index to the date column.
